@@ -1,5 +1,5 @@
 ### 1.什么是盒子模型 ###
-![](img\45984178_1.jpeg)
+![](img/45984178_1.jpeg)
 ![](img/45984178_2.jpeg)
     `box-sizing:border-box`符合实际要求，宽度即不包括margin。
 
